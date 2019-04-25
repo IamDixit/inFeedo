@@ -1,0 +1,76 @@
+[{
+    "name": "Goolge",
+    "phone": "1234567890",
+    "email": "client@mail.com",
+    "address": "client address"
+},{
+    "name": "Microsoft",
+    "phone": "1234567890",
+    "email": "client@mail.com",
+    "address": "client address"
+},{
+    "name": "Oracle",
+    "phone": "1234567890",
+    "email": "client@mail.com",
+    "address": "client address"
+},{
+    "name": "Dell EMC",
+    "phone": "1234567890",
+    "email": "client@mail.com",
+    "address": "client address"
+},{
+    "name": "GE Digital",
+    "phone": "1234567890",
+    "email": "client@mail.com",
+    "address": "client address"
+},{
+    "name": "Infosys",
+    "phone": "1234567890",
+    "email": "client@mail.com",
+    "address": "client address"
+},{
+    "name": "OLA",
+    "phone": "1234567890",
+    "email": "client@mail.com",
+    "address": "client address"
+},{
+    "name": "Genisys",
+    "phone": "1234567890",
+    "email": "client@mail.com",
+    "address": "client address"
+},{
+    "name": "TCS",
+    "phone": "1234567890",
+    "email": "client@mail.com",
+    "address": "client address"
+},{
+    "name": "Facebook",
+    "phone": "1234567890",
+    "email": "client@mail.com",
+    "address": "client address"
+},{
+    "name": "IBM",
+    "phone": "1234567890",
+    "email": "client@mail.com",
+    "address": "client address"
+},{
+    "name": "Uber",
+    "phone": "1234567890",
+    "email": "client@mail.com",
+    "address": "client address"
+},{
+    "name": "Yahoo",
+    "phone": "1234567890",
+    "email": "client@mail.com",
+    "address": "client address"
+},{
+    "name": "SnapChat",
+    "phone": "1234567890",
+    "email": "client@mail.com",
+    "address": "client address"
+},{
+    "name": "Adobe",
+    "phone": "1234567890",
+    "email": "client@mail.com",
+    "address": "client address"
+}]

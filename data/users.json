@@ -1,0 +1,107 @@
+[
+    {
+        "company_id": 1,
+        "name": "Abhishek Dixit",
+        "phone": "+91-8072545571",
+        "email": "dixit2794@gmail.com",
+        "afflicated_to": "Google"
+    },
+    {
+        "company_id": 2,
+        "name": "Abhishek Dixit",
+        "phone": "+91-8072545571",
+        "email": "dixit2794@gmail.com",
+        "afflicated_to": "Microsoft"
+    },
+    {
+        "company_id": 3,
+        "name": "Abhishek Dixit",
+        "phone": "+91-8072545571",
+        "email": "dixit2794@gmail.com",
+        "afflicated_to": "Oracle"
+    },
+    {
+        "company_id": 4,
+        "name": "Abhishek Dixit",
+        "phone": "+91-8072545571",
+        "email": "dixit2794@gmail.com",
+        "afflicated_to": "Dell EMC"
+    },
+    {
+        "company_id": 5,
+        "name": "Abhishek Dixit",
+        "phone": "+91-8072545571",
+        "email": "dixit2794@gmail.com",
+        "afflicated_to": "GE Digital"
+    },
+    {
+        "company_id": 6,
+        "name": "Abhishek Dixit",
+        "phone": "+91-8072545571",
+        "email": "dixit2794@gmail.com",
+        "afflicated_to": "Infosys"
+    },
+    {
+        "company_id": 7,
+        "name": "Abhishek Dixit",
+        "phone": "+91-8072545571",
+        "email": "dixit2794@gmail.com",
+        "afflicated_to": "OLA"
+    },
+    {
+        "company_id": 8,
+        "name": "Abhishek Dixit",
+        "phone": "+91-8072545571",
+        "email": "dixit2794@gmail.com",
+        "afflicated_to": "Genisys"
+    },
+    {
+        "company_id": 9,
+        "name": "Abhishek Dixit",
+        "phone": "+91-8072545571",
+        "email": "dixit2794@gmail.com",
+        "afflicated_to": "TCS"
+    },
+    {
+        "company_id": 10,
+        "name": "Abhishek Dixit",
+        "phone": "+91-8072545571",
+        "email": "dixit2794@gmail.com",
+        "afflicated_to": "Facebook"
+    },
+    {
+        "company_id": 11,
+        "name": "Abhishek Dixit",
+        "phone": "+91-8072545571",
+        "email": "dixit2794@gmail.com",
+        "afflicated_to": "IBM"
+    },
+    {
+        "company_id": 12,
+        "name": "Abhishek Dixit",
+        "phone": "+91-8072545571",
+        "email": "dixit2794@gmail.com",
+        "afflicated_to": "Uber"
+    },
+    {
+        "company_id": 13,
+        "name": "Abhishek Dixit",
+        "phone": "+91-8072545571",
+        "email": "dixit2794@gmail.com",
+        "afflicated_to": "Yahoo"
+    },
+    {
+        "company_id": 14,
+        "name": "Abhishek Dixit",
+        "phone": "+91-8072545571",
+        "email": "dixit2794@gmail.com",
+        "afflicated_to": "SnapChat"
+    },
+    {
+        "company_id": 15,
+        "name": "Abhishek Dixit",
+        "phone": "+91-8072545571",
+        "email": "dixit2794@gmail.com",
+        "afflicated_to": "Adobe"
+    }
+]

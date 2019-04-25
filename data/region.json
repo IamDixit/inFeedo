@@ -1,0 +1,27 @@
+[
+  {
+    "continent": "Asia",
+    "city": "Kolkata",
+    "client": ["Google", "Microsoft", "Oracle"]
+  },
+  {
+    "continent": "Africa",
+    "city": "Addis_Ababa",
+    "client": ["Dell EMC", "GE Digital", "Infosys"]
+  },
+  {
+    "continent": "Europe",
+    "city": "London",
+    "client": ["OLA", "Genisys", "TCS"]
+  },
+  {
+    "continent": "America",
+    "city": "New_York",
+    "client": ["Facebook", "IBM", "Uber"]
+  },
+  {
+    "continent": "Australia",
+    "city": "Adelaide",
+    "client": ["Yahoo", "SnapChat", "Adobe"]
+  }
+]
