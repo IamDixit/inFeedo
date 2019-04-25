@@ -4,7 +4,7 @@ Application which triggers 'Good Morning' email to user in different timezone at
 ### Technology Stack
 1. Nodejs 10.4(https://nodejs.org/en/download/)
 2. MongoDB Database on Cloud(MongoDB Atlas)
-3. Mongoose OCR
+3. Mongoose ORM
 
 ## Installation Steps
 1. clone the repo
