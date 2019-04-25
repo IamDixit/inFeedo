@@ -22,3 +22,9 @@ Run app using cmd **node app.js** or **npm start**
 ### Run Unit Test Case
 1. Install mocha globally using **npm install mocha -g**
 Run test case using **npm test** or **mocha test/dbTest.js**
+
+### App Logs
+App Logs can be seen in **logs\app.txt**
+
+### DB Dump
+Exact replica of db is available in **data** folder
