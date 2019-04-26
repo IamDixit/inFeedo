@@ -17,7 +17,7 @@ Application which triggers 'Good Morning' email to user in different timezone at
 4. sendEmail: Add your email to send email to you for testing purpose
 
 ### Run Application
-Run app using cmd **node app.js** or **npm start**
+Run app using cmd **NODE_ENV="development" node app.js** or **npm start**
 
 ### Run Unit Test Case
 1. Install mocha globally using **npm install mocha -g**
@@ -28,3 +28,6 @@ App Logs can be seen in **logs\app.txt**
 
 ### DB Dump
 Exact replica of db is available in **data** folder
+
+### Caution
+sendGrid API key cannot make public due to security issue. Connect with me for the .env file <abhishek.dixit@genisys-group.com>
