@@ -5,7 +5,7 @@
 const sgMail = require('@sendgrid/mail');
 const config = require('../configurations/appConfig');
 const logger = require('logger').createLogger('logs/app.txt');
-sgMail.setApiKey(config.sendGrid);
+sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 
 const methods = {
   /* 

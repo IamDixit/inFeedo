@@ -17,6 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "@sendgrid/mail": "^6.3.1",
+    "dotenv": "^7.0.0",
     "logger": "0.0.1",
     "moment-timezone": "^0.5.25",
     "mongoose": "^5.5.3"

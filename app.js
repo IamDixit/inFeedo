@@ -4,6 +4,7 @@
     *Required Packages
     *logger = For logging error, debug, data into logs/app.log file
 */
+require('dotenv').config();
 const mongoose = require('mongoose');
 const insert = require('./controllers/insertData');
 const process = require('./controllers/timmer');

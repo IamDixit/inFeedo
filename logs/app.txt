@@ -917,3 +917,321 @@ info [Thu Apr 25 2019 16:05:47 GMT+0530 (India Standard Time)]  [ { _id: 5cc083f
     email: 'dixit2794@gmail.com',
     afflicated_to: 'Microsoft',
     created: 2019-04-24T15:42:55.205Z } ]
+
+
+
+info [Fri Apr 26 2019 08:00:18 GMT+0530 (India Standard Time)]  Connection Established with Mongodb
+info [Fri Apr 26 2019 08:00:18 GMT+0530 (India Standard Time)]  Data inserted for clients
+info [Fri Apr 26 2019 08:00:18 GMT+0530 (India Standard Time)]  Data inserted for regions
+info [Fri Apr 26 2019 08:00:18 GMT+0530 (India Standard Time)]  Data inserted for users
+info [Fri Apr 26 2019 08:00:19 GMT+0530 (India Standard Time)]  Current Time: Africa/Addis_Ababa 05:30:19
+info [Fri Apr 26 2019 08:00:19 GMT+0530 (India Standard Time)]  Current Time: Asia/Kolkata 08:00:19
+info [Fri Apr 26 2019 08:00:19 GMT+0530 (India Standard Time)]  Time mached with timezone Asia/Kolkata
+info [Fri Apr 26 2019 08:00:19 GMT+0530 (India Standard Time)]  Clients founds in this timezone: Google,Microsoft,Oracle
+info [Fri Apr 26 2019 08:00:19 GMT+0530 (India Standard Time)]  Current Time: Europe/London 03:30:19
+info [Fri Apr 26 2019 08:00:19 GMT+0530 (India Standard Time)]  Current Time: Australia/Adelaide 12:00:19
+info [Fri Apr 26 2019 08:00:19 GMT+0530 (India Standard Time)]  Current Time: America/New_York 22:30:19
+info [Fri Apr 26 2019 08:00:19 GMT+0530 (India Standard Time)]  [ { _id: 5cc083ffb3e3c217d36b9d71,
+    company_id: 1,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Google',
+    created: 2019-04-24T15:42:55.203Z },
+  { _id: 5cc083ffb3e3c217d36b9d73,
+    company_id: 3,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Oracle',
+    created: 2019-04-24T15:42:55.206Z },
+  { _id: 5cc083ffb3e3c217d36b9d72,
+    company_id: 2,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Microsoft',
+    created: 2019-04-24T15:42:55.205Z } ]
+
+
+
+info [Fri Apr 26 2019 08:01:32 GMT+0530 (India Standard Time)]  Connection Established with Mongodb
+info [Fri Apr 26 2019 08:01:32 GMT+0530 (India Standard Time)]  Data inserted for clients
+info [Fri Apr 26 2019 08:01:32 GMT+0530 (India Standard Time)]  Data inserted for regions
+info [Fri Apr 26 2019 08:01:32 GMT+0530 (India Standard Time)]  Data inserted for users
+info [Fri Apr 26 2019 08:01:32 GMT+0530 (India Standard Time)]  Current Time: Africa/Addis_Ababa 05:31:32
+info [Fri Apr 26 2019 08:01:33 GMT+0530 (India Standard Time)]  Current Time: Asia/Kolkata 08:01:32
+info [Fri Apr 26 2019 08:01:33 GMT+0530 (India Standard Time)]  Time mached with timezone Asia/Kolkata
+info [Fri Apr 26 2019 08:01:33 GMT+0530 (India Standard Time)]  Clients founds in this timezone: Google,Microsoft,Oracle
+info [Fri Apr 26 2019 08:01:33 GMT+0530 (India Standard Time)]  Current Time: Europe/London 03:31:33
+info [Fri Apr 26 2019 08:01:33 GMT+0530 (India Standard Time)]  Current Time: Australia/Adelaide 12:01:33
+info [Fri Apr 26 2019 08:01:33 GMT+0530 (India Standard Time)]  Current Time: America/New_York 22:31:33
+info [Fri Apr 26 2019 08:01:33 GMT+0530 (India Standard Time)]  [ { _id: 5cc083ffb3e3c217d36b9d71,
+    company_id: 1,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Google',
+    created: 2019-04-24T15:42:55.203Z },
+  { _id: 5cc083ffb3e3c217d36b9d73,
+    company_id: 3,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Oracle',
+    created: 2019-04-24T15:42:55.206Z },
+  { _id: 5cc083ffb3e3c217d36b9d72,
+    company_id: 2,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Microsoft',
+    created: 2019-04-24T15:42:55.205Z } ]
+
+
+
+info [Fri Apr 26 2019 08:02:39 GMT+0530 (India Standard Time)]  Connection Established with Mongodb
+info [Fri Apr 26 2019 08:02:39 GMT+0530 (India Standard Time)]  Data inserted for clients
+info [Fri Apr 26 2019 08:02:39 GMT+0530 (India Standard Time)]  Data inserted for regions
+info [Fri Apr 26 2019 08:02:39 GMT+0530 (India Standard Time)]  Data inserted for users
+info [Fri Apr 26 2019 08:02:40 GMT+0530 (India Standard Time)]  Current Time: Africa/Addis_Ababa 05:32:40
+info [Fri Apr 26 2019 08:02:40 GMT+0530 (India Standard Time)]  Current Time: Asia/Kolkata 08:02:40
+info [Fri Apr 26 2019 08:02:40 GMT+0530 (India Standard Time)]  Time mached with timezone Asia/Kolkata
+info [Fri Apr 26 2019 08:02:40 GMT+0530 (India Standard Time)]  Clients founds in this timezone: Google,Microsoft,Oracle
+info [Fri Apr 26 2019 08:02:40 GMT+0530 (India Standard Time)]  Current Time: Europe/London 03:32:40
+info [Fri Apr 26 2019 08:02:40 GMT+0530 (India Standard Time)]  Current Time: Australia/Adelaide 12:02:40
+info [Fri Apr 26 2019 08:02:40 GMT+0530 (India Standard Time)]  Current Time: America/New_York 22:32:40
+info [Fri Apr 26 2019 08:02:40 GMT+0530 (India Standard Time)]  [ { _id: 5cc083ffb3e3c217d36b9d71,
+    company_id: 1,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Google',
+    created: 2019-04-24T15:42:55.203Z },
+  { _id: 5cc083ffb3e3c217d36b9d73,
+    company_id: 3,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Oracle',
+    created: 2019-04-24T15:42:55.206Z },
+  { _id: 5cc083ffb3e3c217d36b9d72,
+    company_id: 2,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Microsoft',
+    created: 2019-04-24T15:42:55.205Z } ]
+
+
+
+info [Fri Apr 26 2019 08:03:05 GMT+0530 (India Standard Time)]  Connection Established with Mongodb
+info [Fri Apr 26 2019 08:03:05 GMT+0530 (India Standard Time)]  Data inserted for clients
+info [Fri Apr 26 2019 08:03:05 GMT+0530 (India Standard Time)]  Data inserted for regions
+info [Fri Apr 26 2019 08:03:05 GMT+0530 (India Standard Time)]  Data inserted for users
+info [Fri Apr 26 2019 08:03:05 GMT+0530 (India Standard Time)]  Current Time: Africa/Addis_Ababa 05:33:05
+info [Fri Apr 26 2019 08:03:05 GMT+0530 (India Standard Time)]  Current Time: Asia/Kolkata 08:03:05
+info [Fri Apr 26 2019 08:03:05 GMT+0530 (India Standard Time)]  Time mached with timezone Asia/Kolkata
+info [Fri Apr 26 2019 08:03:05 GMT+0530 (India Standard Time)]  Clients founds in this timezone: Google,Microsoft,Oracle
+info [Fri Apr 26 2019 08:03:05 GMT+0530 (India Standard Time)]  Current Time: Europe/London 03:33:05
+info [Fri Apr 26 2019 08:03:05 GMT+0530 (India Standard Time)]  Current Time: Australia/Adelaide 12:03:05
+info [Fri Apr 26 2019 08:03:05 GMT+0530 (India Standard Time)]  Current Time: America/New_York 22:33:05
+info [Fri Apr 26 2019 08:03:05 GMT+0530 (India Standard Time)]  [ { _id: 5cc083ffb3e3c217d36b9d71,
+    company_id: 1,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Google',
+    created: 2019-04-24T15:42:55.203Z },
+  { _id: 5cc083ffb3e3c217d36b9d73,
+    company_id: 3,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Oracle',
+    created: 2019-04-24T15:42:55.206Z },
+  { _id: 5cc083ffb3e3c217d36b9d72,
+    company_id: 2,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Microsoft',
+    created: 2019-04-24T15:42:55.205Z } ]
+
+
+
+info [Fri Apr 26 2019 08:03:48 GMT+0530 (India Standard Time)]  Connection Established with Mongodb
+info [Fri Apr 26 2019 08:03:48 GMT+0530 (India Standard Time)]  Data inserted for clients
+info [Fri Apr 26 2019 08:03:48 GMT+0530 (India Standard Time)]  Data inserted for regions
+info [Fri Apr 26 2019 08:03:48 GMT+0530 (India Standard Time)]  Data inserted for users
+info [Fri Apr 26 2019 08:03:48 GMT+0530 (India Standard Time)]  Current Time: Africa/Addis_Ababa 05:33:48
+info [Fri Apr 26 2019 08:03:48 GMT+0530 (India Standard Time)]  Current Time: Asia/Kolkata 08:03:48
+info [Fri Apr 26 2019 08:03:48 GMT+0530 (India Standard Time)]  Time mached with timezone Asia/Kolkata
+info [Fri Apr 26 2019 08:03:48 GMT+0530 (India Standard Time)]  Clients founds in this timezone: Google,Microsoft,Oracle
+info [Fri Apr 26 2019 08:03:48 GMT+0530 (India Standard Time)]  Current Time: Europe/London 03:33:48
+info [Fri Apr 26 2019 08:03:48 GMT+0530 (India Standard Time)]  Current Time: Australia/Adelaide 12:03:48
+info [Fri Apr 26 2019 08:03:48 GMT+0530 (India Standard Time)]  Current Time: America/New_York 22:33:48
+info [Fri Apr 26 2019 08:03:48 GMT+0530 (India Standard Time)]  [ { _id: 5cc083ffb3e3c217d36b9d71,
+    company_id: 1,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Google',
+    created: 2019-04-24T15:42:55.203Z },
+  { _id: 5cc083ffb3e3c217d36b9d73,
+    company_id: 3,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Oracle',
+    created: 2019-04-24T15:42:55.206Z },
+  { _id: 5cc083ffb3e3c217d36b9d72,
+    company_id: 2,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Microsoft',
+    created: 2019-04-24T15:42:55.205Z } ]
+
+
+
+info [Fri Apr 26 2019 08:04:24 GMT+0530 (India Standard Time)]  Connection Established with Mongodb
+info [Fri Apr 26 2019 08:04:24 GMT+0530 (India Standard Time)]  Data inserted for clients
+info [Fri Apr 26 2019 08:04:24 GMT+0530 (India Standard Time)]  Data inserted for regions
+info [Fri Apr 26 2019 08:04:24 GMT+0530 (India Standard Time)]  Data inserted for users
+info [Fri Apr 26 2019 08:04:24 GMT+0530 (India Standard Time)]  Current Time: Africa/Addis_Ababa 05:34:24
+info [Fri Apr 26 2019 08:04:24 GMT+0530 (India Standard Time)]  Current Time: Asia/Kolkata 08:04:24
+info [Fri Apr 26 2019 08:04:24 GMT+0530 (India Standard Time)]  Time mached with timezone Asia/Kolkata
+info [Fri Apr 26 2019 08:04:24 GMT+0530 (India Standard Time)]  Clients founds in this timezone: Google,Microsoft,Oracle
+info [Fri Apr 26 2019 08:04:24 GMT+0530 (India Standard Time)]  Current Time: Europe/London 03:34:24
+info [Fri Apr 26 2019 08:04:24 GMT+0530 (India Standard Time)]  Current Time: Australia/Adelaide 12:04:24
+info [Fri Apr 26 2019 08:04:24 GMT+0530 (India Standard Time)]  Current Time: America/New_York 22:34:24
+info [Fri Apr 26 2019 08:04:24 GMT+0530 (India Standard Time)]  [ { _id: 5cc083ffb3e3c217d36b9d71,
+    company_id: 1,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Google',
+    created: 2019-04-24T15:42:55.203Z },
+  { _id: 5cc083ffb3e3c217d36b9d73,
+    company_id: 3,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Oracle',
+    created: 2019-04-24T15:42:55.206Z },
+  { _id: 5cc083ffb3e3c217d36b9d72,
+    company_id: 2,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Microsoft',
+    created: 2019-04-24T15:42:55.205Z } ]
+
+
+
+info [Fri Apr 26 2019 08:07:14 GMT+0530 (India Standard Time)]  Connection Established with Mongodb
+info [Fri Apr 26 2019 08:07:14 GMT+0530 (India Standard Time)]  Data inserted for clients
+info [Fri Apr 26 2019 08:07:14 GMT+0530 (India Standard Time)]  Data inserted for regions
+info [Fri Apr 26 2019 08:07:14 GMT+0530 (India Standard Time)]  Data inserted for users
+info [Fri Apr 26 2019 08:07:14 GMT+0530 (India Standard Time)]  Current Time: Africa/Addis_Ababa 05:37:14
+info [Fri Apr 26 2019 08:07:14 GMT+0530 (India Standard Time)]  Current Time: Asia/Kolkata 08:07:14
+info [Fri Apr 26 2019 08:07:14 GMT+0530 (India Standard Time)]  Time mached with timezone Asia/Kolkata
+info [Fri Apr 26 2019 08:07:14 GMT+0530 (India Standard Time)]  Clients founds in this timezone: Google,Microsoft,Oracle
+info [Fri Apr 26 2019 08:07:14 GMT+0530 (India Standard Time)]  Current Time: Europe/London 03:37:14
+info [Fri Apr 26 2019 08:07:14 GMT+0530 (India Standard Time)]  Current Time: Australia/Adelaide 12:07:14
+info [Fri Apr 26 2019 08:07:14 GMT+0530 (India Standard Time)]  Current Time: America/New_York 22:37:14
+info [Fri Apr 26 2019 08:07:14 GMT+0530 (India Standard Time)]  [ { _id: 5cc083ffb3e3c217d36b9d71,
+    company_id: 1,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Google',
+    created: 2019-04-24T15:42:55.203Z },
+  { _id: 5cc083ffb3e3c217d36b9d73,
+    company_id: 3,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Oracle',
+    created: 2019-04-24T15:42:55.206Z },
+  { _id: 5cc083ffb3e3c217d36b9d72,
+    company_id: 2,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Microsoft',
+    created: 2019-04-24T15:42:55.205Z } ]
+
+
+
+info [Fri Apr 26 2019 08:07:57 GMT+0530 (India Standard Time)]  Connection Established with Mongodb
+info [Fri Apr 26 2019 08:07:57 GMT+0530 (India Standard Time)]  Data inserted for clients
+info [Fri Apr 26 2019 08:07:57 GMT+0530 (India Standard Time)]  Data inserted for regions
+info [Fri Apr 26 2019 08:07:57 GMT+0530 (India Standard Time)]  Data inserted for users
+info [Fri Apr 26 2019 08:07:57 GMT+0530 (India Standard Time)]  Current Time: Africa/Addis_Ababa 05:37:57
+info [Fri Apr 26 2019 08:07:57 GMT+0530 (India Standard Time)]  Current Time: Asia/Kolkata 08:07:57
+info [Fri Apr 26 2019 08:07:57 GMT+0530 (India Standard Time)]  Time mached with timezone Asia/Kolkata
+info [Fri Apr 26 2019 08:07:57 GMT+0530 (India Standard Time)]  Clients founds in this timezone: Google,Microsoft,Oracle
+info [Fri Apr 26 2019 08:07:57 GMT+0530 (India Standard Time)]  Current Time: Europe/London 03:37:57
+info [Fri Apr 26 2019 08:07:57 GMT+0530 (India Standard Time)]  Current Time: Australia/Adelaide 12:07:57
+info [Fri Apr 26 2019 08:07:57 GMT+0530 (India Standard Time)]  Current Time: America/New_York 22:37:57
+info [Fri Apr 26 2019 08:07:57 GMT+0530 (India Standard Time)]  [ { _id: 5cc083ffb3e3c217d36b9d71,
+    company_id: 1,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Google',
+    created: 2019-04-24T15:42:55.203Z },
+  { _id: 5cc083ffb3e3c217d36b9d73,
+    company_id: 3,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Oracle',
+    created: 2019-04-24T15:42:55.206Z },
+  { _id: 5cc083ffb3e3c217d36b9d72,
+    company_id: 2,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Microsoft',
+    created: 2019-04-24T15:42:55.205Z } ]
+
+
+
+info [Fri Apr 26 2019 08:10:04 GMT+0530 (India Standard Time)]  Connection Established with Mongodb
+info [Fri Apr 26 2019 08:10:04 GMT+0530 (India Standard Time)]  Data inserted for clients
+info [Fri Apr 26 2019 08:10:04 GMT+0530 (India Standard Time)]  Data inserted for regions
+info [Fri Apr 26 2019 08:10:04 GMT+0530 (India Standard Time)]  Data inserted for users
+info [Fri Apr 26 2019 08:10:04 GMT+0530 (India Standard Time)]  Current Time: Africa/Addis_Ababa 05:40:04
+info [Fri Apr 26 2019 08:10:04 GMT+0530 (India Standard Time)]  Current Time: Asia/Kolkata 08:10:04
+info [Fri Apr 26 2019 08:10:04 GMT+0530 (India Standard Time)]  Time mached with timezone Asia/Kolkata
+info [Fri Apr 26 2019 08:10:04 GMT+0530 (India Standard Time)]  Clients founds in this timezone: Google,Microsoft,Oracle
+info [Fri Apr 26 2019 08:10:04 GMT+0530 (India Standard Time)]  Current Time: Europe/London 03:40:04
+info [Fri Apr 26 2019 08:10:04 GMT+0530 (India Standard Time)]  Current Time: Australia/Adelaide 12:10:04
+info [Fri Apr 26 2019 08:10:04 GMT+0530 (India Standard Time)]  Current Time: America/New_York 22:40:04
+info [Fri Apr 26 2019 08:10:04 GMT+0530 (India Standard Time)]  [ { _id: 5cc083ffb3e3c217d36b9d71,
+    company_id: 1,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Google',
+    created: 2019-04-24T15:42:55.203Z },
+  { _id: 5cc083ffb3e3c217d36b9d73,
+    company_id: 3,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Oracle',
+    created: 2019-04-24T15:42:55.206Z },
+  { _id: 5cc083ffb3e3c217d36b9d72,
+    company_id: 2,
+    name: 'Abhishek Dixit',
+    phone: '+91-8072545571',
+    email: 'dixit2794@gmail.com',
+    afflicated_to: 'Microsoft',
+    created: 2019-04-24T15:42:55.205Z } ]
+info [Fri Apr 26 2019 08:10:05 GMT+0530 (India Standard Time)]  Send email to: dixit2794@gmail.com
+info [Fri Apr 26 2019 08:10:05 GMT+0530 (India Standard Time)]  Send email to: dixit2794@gmail.com
+info [Fri Apr 26 2019 08:10:05 GMT+0530 (India Standard Time)]  Send email to: dixit2794@gmail.com
